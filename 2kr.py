@@ -83,9 +83,6 @@ helpMessage ="""
 ║╠☔Gift
 ║╠☔Kr pergi (ngeluarkan bot)
 ║╚════════════
-║   UNTUK PUBLIK
-║ SILAHKAN GUNAKAN
-╚═════════════
 """
 
 protectMessage ="""
